@@ -8,6 +8,15 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 16 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://madtecc.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Accepted Papers</title>
+      <link>https://madtecc.github.io/accepted/</link>
+      <pubDate>Thu, 16 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://madtecc.github.io/accepted/</guid>
+      <description>Accepted Papers Once the peer-review process is finalized, we will announced here the accepted submissions.</description>
+    </item>
+    
+    <item>
       <title>Dates</title>
       <link>https://madtecc.github.io/dates/</link>
       <pubDate>Thu, 16 Jun 2022 00:00:00 +0000</pubDate>
@@ -22,7 +31,9 @@
       <pubDate>Thu, 16 Jun 2022 00:00:00 +0000</pubDate>
       
       <guid>https://madtecc.github.io/program/</guid>
-      <description>Program We are currently preparing the contents for the workshop. The final schedule will be posted here in a timely manner.</description>
+      <description>Program We are currently preparing the contents for the workshop. The final schedule will be posted here in a timely manner.
+Invited Speakers The keynote speakers will be announced shortly.
+Agenda The workshop agenda will be available once the peer-review precess is completed.</description>
     </item>
     
     <item>
