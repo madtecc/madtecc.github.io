@@ -109,6 +109,9 @@ home = ["HTML", "RSS", "Algolia"]
   [[params.addtional_menus]]
   title =  "Organization"
   href =  "/organization/"
+ [[params.addtional_menus]]
+  title =  "Dates"
+  href =  "/dates/"
   [[params.addtional_menus]]
   title =  "Percom 2024"
   href =  "/about/"
