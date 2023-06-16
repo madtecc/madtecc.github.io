@@ -13,3 +13,11 @@ URL: "/program/"
 
 We are currently preparing the contents for the workshop. The final schedule will be posted here in a timely manner. 
 
+### Invited Speakers
+
+The keynote speakers will be announced shortly.
+
+### Agenda
+
+The workshop agenda will be available once the peer-review precess is completed.
+
