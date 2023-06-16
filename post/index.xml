@@ -6,7 +6,16 @@
     <description>Recent content in Posts on MADTECC 24</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://madtecc.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 16 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://madtecc.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dates</title>
+      <link>https://madtecc.github.io/dates/</link>
+      <pubDate>Thu, 16 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://madtecc.github.io/dates/</guid>
+      <description>Dates Paper submission deadline: November 17th, 2023 Paper notification: January 8th, 2024 Camera Ready Deadline: February 2nd, 2024 </description>
+    </item>
+    
     <item>
       <title>Call for papers</title>
       <link>https://madtecc.github.io/cfp/</link>
@@ -22,7 +31,11 @@
       <pubDate>Sun, 12 Jun 2022 00:00:00 +0000</pubDate>
       
       <guid>https://madtecc.github.io/organization/</guid>
-      <description>Sara</description>
+      <description>Committees Organising Committee Lukas Esterkle: Department of Electrical and Computer Engineering - Aarhus University, Denmark
+Sara Montagna, Department of Pure and Applied Science - University of Urbino Carlo Bo, Italy
+Danilo Pianini, Department of Computer Science and Engineering - University of Bologna, Italy
+Program Committee Angelo Croatti, AUSL Romagna, Italy
+Alessandro Ricci, University of Bologna, Italy</description>
     </item>
     
   </channel>
