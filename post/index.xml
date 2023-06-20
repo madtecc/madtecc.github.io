@@ -45,17 +45,5 @@ Agenda The workshop agenda will be available once the peer-review precess is com
       <description>Recent trends in computer science promoted new ways to think about software at both design time and run time. Next-generation intelligent pervasive systems will be modelled as digital twins that are counterparts of physical objects and executed in parallel. Moreover, combining the mirroring of the physical entities &amp;ndash; that allows for continuous observation of the real world and the corresponding update of the digital replica &amp;ndash; with computational intelligence enables the individual devices to operate responsibly towards their goals.</description>
     </item>
     
-    <item>
-      <title>Organization</title>
-      <link>https://madtecc.github.io/organization/</link>
-      <pubDate>Sun, 12 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://madtecc.github.io/organization/</guid>
-      <description>Committees Organising Committee Lukas Esterkle: Department of Electrical and Computer Engineering - Aarhus University, Denmark
-Sara Montagna, Department of Pure and Applied Science - University of Urbino Carlo Bo, Italy
-Danilo Pianini, Department of Computer Science and Engineering - University of Bologna, Italy
-Program Committee Axel Jantsch, TU Wien, Austria Nema TaheriNejad, Heidelberg University, Germany Amir M. Rahmani, UC Irvine, USA Pasi Liljeberg, University of Turku, Finland Olaf van der Sluis, TU Eindhoven &amp;amp; Philips, The Netherlands Kirstie Bellman, TopcyHouse Consulting, USA Roberto Saracco, IEEE Ivana Dusparic, Trinity College Dublin, Ireland Angelo Croatti, ASL Romagna, Italy Ada Diaconescu, Inst.</description>
-    </item>
-    
   </channel>
 </rss>
