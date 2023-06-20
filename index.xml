@@ -7,9 +7,9 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://madtecc.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
+      <title>MADTECC 2024</title>
       <link>https://madtecc.github.io/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 13 Jun 2022 00:00:00 +0000</pubDate>
       
       <guid>https://madtecc.github.io/</guid>
       <description>MADTECC: Medical applications with Digital Twins and Edge-Cloud Continuum March 11-15, 2024 in Biarritz, France. Conference Overview Recent trends in computer science promoted new ways to think about software at both design time and run time. Next-generation intelligent pervasive systems will be modelled as digital twins that are counterparts of physical objects and executed in parallel. Moreover, combining the mirroring of the physical entities &amp;ndash; that allows for continuous observation of the real world and the corresponding update of the digital replica &amp;ndash; with computational intelligence enables the individual devices to operate responsibly towards their goals.</description>
