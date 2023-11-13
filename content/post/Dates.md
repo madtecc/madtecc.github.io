@@ -10,9 +10,12 @@ image: "/img/Biarritz_Panorama.jpg"
 published: true
 URL: "/dates/"
 ---
+
 # Dates
 
-* Paper submission deadline: November 17th, 2023
+### **DEADLINE EXTENSION!**
+
+* Paper submission deadline: ~~November 17th, 2023~~ December 1st, 2023
 * Paper notification: January 8th, 2024
 * Camera Ready Deadline: February 2nd, 2024
 
