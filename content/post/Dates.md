@@ -16,6 +16,6 @@ URL: "/dates/"
 ### **DEADLINE EXTENSION!**
 
 * Paper submission deadline: ~~November 17th, 2023~~ December 1st, 2023
-* Paper notification: ~~January 8th, 2024~~ January 15th, 2024
+* Paper notification: January 8th, 2024
 * Camera Ready Deadline: February 2nd, 2024
 
