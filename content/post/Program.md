@@ -19,5 +19,6 @@ The keynote speakers will be announced shortly.
 
 ### Agenda
 
-The workshop agenda will be available once the peer-review precess is completed.
+The workshop agenda will be available soon.
+However, we anticipate it will be held on Monday 11th, 2024.
 
