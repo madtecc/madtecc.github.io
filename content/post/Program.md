@@ -9,16 +9,18 @@ image: "/img/Biarritz_Panorama.jpg"
 published: true
 URL: "/program/"
 ---
+
 # Program
 
-We are currently preparing the contents for the workshop. The final schedule will be posted here in a timely manner. 
+## Monday June 11th, 2024
 
-### Invited Speakers
-
-The keynote speakers will be announced shortly.
-
-### Agenda
-
-The workshop agenda will be available soon.
-However, we anticipate it will be held on Monday 11th, 2024.
-
+- **8:00 - 8:30**: Registration
+- **8:45 - 9:00**: Welcome to MADTECC
+- **9:00 - 10:00** Session 1
+    - **9:00**: *Development and Validation of a Proximity-based Wearable Computing Testbed for CoWS*; Qimeng Li, Fabrizio Mangione, Francesco Porreca, Raffaele Gravina and Giancarlo Fortino
+    - **9.30** *Towards Operator Digital Twins in Industry 5.0: Design Strategies & Experimental Evaluation*; Marco Picone, Riccardo Morandi, Valeria Villani, Marcello Pietri and Luca Bedogni
+- **10:00 - 10:30**: Coffee break
+- **10:30 - 11:30**: Session 2
+    - **10.30**: *A Digital Twins approach for Oncologic Pharmaceutical Supply Chain*; Samuele Burattini, Sara Montagna, Nicola Gentili, Francesca Galardi and Roberto Vespignani, Paolo Zanatto, Angelo Croatti, Alessandro Ricci
+    - **11.00**: *Representation of ML models to enhance simulation capabilities within DTs in personalized healthcare*; Alberto Marfoglia, Filippo Nardini, Sabato Mellone, Antonella Carbonaro
+- **11:30 - 12:30**: **Keynote** in conjunction with the 3rd International Workshop on Telemedicine and e-Health Evolution in the New Era of Social Distancing -- *E-Health and Artificial Intelligence. The new paradigm of Medicine 4.0*; Prof. Eros Pasero, Politecnico di Torino (Italy), Distinguished Lecturer of the IEEE I&M Society
