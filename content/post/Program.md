@@ -12,7 +12,7 @@ URL: "/program/"
 
 # Program
 
-## Monday June 11th, 2024
+## Monday March 11th, 2024
 
 - **8:00 - 8:30**: Registration
 - **8:45 - 9:00**: Welcome to MADTECC
